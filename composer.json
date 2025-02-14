@@ -1,0 +1,25 @@
+{
+    "name": "tanvir/custom-mvc",
+    "description": "MVC framework manifestation",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "app/Helpers/helper.php"
+        ],
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tanvir Hossen",
+            "email": "tanvirhossen112@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "illuminate/database": "^9.50",
+        "phroute/phroute": "^2.2"
+    }
+}
