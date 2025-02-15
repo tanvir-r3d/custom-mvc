@@ -3,7 +3,7 @@
         'name' => 'tanvir/custom-mvc',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'aee621d12c5a128fa4fb55c36423294cf4e53a36',
+        'reference' => 'dbf9bae35de5195fcd43191aa22c45f0a41101cd',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -298,7 +298,7 @@
         'tanvir/custom-mvc' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'aee621d12c5a128fa4fb55c36423294cf4e53a36',
+            'reference' => 'dbf9bae35de5195fcd43191aa22c45f0a41101cd',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
