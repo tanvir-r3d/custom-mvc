@@ -6,7 +6,7 @@
 	 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 	 <meta name="description" content=""/>
 	 <meta name="author" content=""/>
-	 <title>Dashboard - SB Admin</title>
+	 <title>Dashboard</title>
 	 <?php include_asset("partials/_backend_css") ?>
 
 </head>
